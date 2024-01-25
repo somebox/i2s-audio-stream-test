@@ -9,4 +9,4 @@ situation. There's an on-board MAX98357 DACs, allowing for a 3W amplified speake
 Connections in JST SH (1.0m) for I2C, speaker, and a neopixel strip 
 (which is also level-shifted and buffered for 5v). 
 
-<img width="1319" alt="Screenshot 2024-01-25 at 19 25 20" src="https://github.com/somebox/i2s-audio-stream-test/assets/7750/b42cf634-044e-473f-afc2-9ee606c8a82b">
+<img src="https://github.com/somebox/i2s-audio-stream-test/assets/v1-build-pic.jpg" />
